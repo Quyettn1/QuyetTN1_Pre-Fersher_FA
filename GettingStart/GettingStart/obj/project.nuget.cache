@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbZM2sJA8FchyuRzAwutLMO/X/UKBCug3z71LzwQ5fB2MFAoSr41nN84Enh/fCqosxN7uWzE3G+5QnjH27ABmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\FA\\C#\\FA\\QuyetTN1_Pre-Fersher_FA\\GettingStart\\GettingStart\\GettingStart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

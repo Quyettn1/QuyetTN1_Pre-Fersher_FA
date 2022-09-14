@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\bin\Debug\net5.0\GettingStart.exe
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\bin\Debug\net5.0\GettingStart.deps.json
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\bin\Debug\net5.0\GettingStart.runtimeconfig.json
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\bin\Debug\net5.0\GettingStart.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\bin\Debug\net5.0\GettingStart.dll
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\bin\Debug\net5.0\ref\GettingStart.dll
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\bin\Debug\net5.0\GettingStart.pdb
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\GettingStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\GettingStart.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\GettingStart.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\GettingStart.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\GettingStart.dll
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\ref\GettingStart.dll
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\GettingStart.pdb
+C:\Users\Administrator\Desktop\FA\C#\GettingStart\GettingStart\obj\Debug\net5.0\GettingStart.genruntimeconfig.cache
